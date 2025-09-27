@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
-import cv2.imdecode
+import cv2
 import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="Image Processing Demo", layout="wide")
